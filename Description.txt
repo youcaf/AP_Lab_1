@@ -1,0 +1,10 @@
+Name: Yousaf Iqbal
+Reg No: 04730
+
+I have accomplished this task in a class name Matrix. Matrix class has separate methods for both simple multiplication
+and Strassen multiplication. Simple multiplication is done using method "multiply_Old(Matrix)" and Strassen is done using 
+method "multiply_Strassen(Matrix A,Matrix B)"
+
+For JUnit testing I used a class MatrixTest that contains tests for both the methods "multiply_Old(Matrix)" and "multiply_Strassen(Matrix A,Matrix B)"
+
+GitHub Link: https://github.com/youcaf/AP_Lab_1
